@@ -3,4 +3,4 @@
 ## String
 |  #  | Title | Solution |
 | --- | ----- | -------- |
-|344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Scala](TBD) |
+|344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Scala](./string/ReverseString.scala) |
