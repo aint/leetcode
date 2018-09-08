@@ -1,17 +1,19 @@
 import scala.annotation.tailrec
 
-object Solution {
+object ReverseString {
     def reverseString(s: String): String = {
-        val chars = s.toList
+        val chars = s.toCharArray
 
         @tailrec
-        def reverser(in: List[Char], out: List[Char]): String = {
-            in match {
-                case Nil => out.mkString
-                case x :: tail => reverser(tail, x :: out)
-            }
-        }
+        def reverser(i: Int, j: Int): String = {
+            if (i == s.length / 2) return chars.mkString
+            val c = chars(i)
+            chars(i) = chars(j)
+            chars(j) = c
 
-        reverser(chars, Nil)        
+            reverser(i + 1, j - 1)
+        }
+        
+        reverser(0, s.length - 1)
     }
 }
