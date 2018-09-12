@@ -1,34 +1,15 @@
-package main
-
-import (
-    "fmt"
-)
-
-func main() {
-    fmt.Println(isPalindrome(2147483647))
-}
+package leetcode
 
 func isPalindrome(x int) bool {
     if x < 0 {
         return false
     }
 
-    var revertedX int
-    tempX := x
+    revertedX := 0
 
-    for {
-        remainder := tempX % 10
-        revertedX = revertedX * 10 + remainder
-
-        tempX = tempX / 10
-        if tempX == 0 {
-            break
-        }
+    for tempX := x; tempX != 0; tempX /= 10 {
+		revertedX = revertedX * 10 + tempX % 10
     }
-
-    fmt.Println("revertedX", revertedX)
-    fmt.Println("x", x)
-    fmt.Println("tempX", tempX)
 
     return x == revertedX
 }
