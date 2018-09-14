@@ -5,6 +5,11 @@
 ![golang](https://img.shields.io/badge/lang-golang-blue.svg)
 
 
+## Array
+|  #  | Title | Solution |
+| --- | ----- | -------- |
+|1| [Two sum](https://leetcode.com/problems/two-sum/description/) | [Java](./array/TwoSum.java) |
+
 ## Math
 |  #  | Title | Solution |
 | --- | ----- | -------- |
