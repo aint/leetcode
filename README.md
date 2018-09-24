@@ -12,6 +12,11 @@
 |1| [Two sum](https://leetcode.com/problems/two-sum/description/) | [Java](./array/TwoSum.java) |
 |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](./array/RemoveDuplicatesFromSortedArray.go) |
 
+## Linked List
+|  #  | Title | Solution |
+| --- | ----- | -------- |
+|203| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Python](./linkedList/RemoveLinkedListElements.py) |
+
 ## Math
 |  #  | Title | Solution |
 | --- | ----- | -------- |
