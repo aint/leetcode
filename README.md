@@ -4,7 +4,7 @@
 ![java](https://img.shields.io/badge/lang-java-lightgrey.svg)
 ![golang](https://img.shields.io/badge/lang-golang-blue.svg)
 
-### Progres  4 / 901 
+### Progres  4 / 901
 
 ## Array
 |  #  | Title | Solution |
@@ -16,6 +16,7 @@
 |  #  | Title | Solution |
 | --- | ----- | -------- |
 |203| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Python](./linkedList/RemoveLinkedListElements.py) |
+|206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Scala](./linkedList/ReverseLinkedList.scala) |
 
 ## Math
 |  #  | Title | Solution |
