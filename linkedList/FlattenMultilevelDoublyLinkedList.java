@@ -18,21 +18,32 @@ class Node {
 
 class Solution {
     public Node flatten(Node head) {
-        rec(head);
+        Node prev = head;
+        while (head != null) {
+            System.out.println(head.val);
 
-        return null;
-    }
+            Node child = head.child;
+            head.child = null;
+            if (child != null) {
+                System.out.println("s " + head.val);
+                Node tmpNext = head.next;
+                head.next = child;
+                child.prev = head;
 
-    private void rec(Node node) {
-        while (node != null) {
-            System.out.println(node.val);
+                while(child.next != null) {
+                    child = child.next;
+                }
 
-            if (node.child != null) {
-                rec(node.child);
+                System.out.println("e " + child.val);
+                child.next = tmpNext;
+                if (tmpNext != null) {
+                    tmpNext.prev = child;
+                }
             }
 
-            node = node.next;
+            head = head.next;
         }
+        return prev;
     }
 
 }
