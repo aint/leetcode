@@ -17,6 +17,7 @@
 | --- | ----- | -------- |
 |203| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Python](./linkedList/RemoveLinkedListElements.py) |
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Scala](./linkedList/ReverseLinkedList.scala) |
+|237| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Python](./linkedList/DeleteNodeInLinkedList.py) |
 
 ## Math
 |  #  | Title | Solution |
