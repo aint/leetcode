@@ -10,43 +10,40 @@ object Solution {
       }
 
     def lengthOfLongestSubstring(s: String): Int = {
-        var start = 0
-        var result = 0
+        var result = if (s.length() == 1) 1 else 0
 
         for (i <- 0 until s.length) {
-            println(" # " + i + " is "+ s(i))
+            println(s" # i: $i (${s(i)})")
             breakable {
 
-                var startIndex = 0
-                var endIndex = 0
+                var count = 1
 
                 for (j <- i + 1 until s.length) {
-                    println(s"        $i,   $j")
+                    println(s"        # j: $j (${s(j)})")
                     println("        " + s(i) + " == " + s(j))
 
                     if (s(j) == s(i)) {
-                        println("        dup found: " + s(j))
-                        endIndex = j
-                        println("        endIndex: " + j)
+                        println("        dup found")
+                        println("        COUNT: " + count)
+                        result = if (count > result) count else result
+                        break
+                    }
 
-                        for (j <- i to 0 by -1) {
-                            println(s"        $i,   $j")
-                            println("        " + s(i) + " == " + s(j))
-
-                            if (s(j) == s(i)) {
-                                println("        dup found: " + s(j))
-                                startIndex = j
-                                println("        startIndex: " + j)
-
-                                var indexDiff = if (endIndex - 1 == startIndex) 0 else endIndex - startIndex
-                                println("        indexDiff: " + indexDiff)
-
-                                result = if (indexDiff > result) indexDiff else result
-
-                                break
-                            }
+                    for (k <- i + 1 to j) {
+                        println(s"            # k: $k (${s(k)})")
+                        println("            " + s(j) + " == " + s(k))
+                        if (s(j) == s(k) && j != k) {
+                            println("            dup found")
+                            println("            COUNT: " + count)
+                            result = if (count > result) count else result
+                            break
                         }
                     }
+
+                    count += 1
+                    result = if (count > result) count else result
+                    println("        COUNT: " + count)
+
                 }
 
             }
