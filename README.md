@@ -28,3 +28,6 @@
 |  #  | Title | Solution |
 | --- | ----- | -------- |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Scala](./string/ReverseString.scala) |
+|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Scala](./string/LongestSubstringWithoutRepeatingCharacters.scala) |
+
+
