@@ -3,8 +3,9 @@
 ![scala](https://img.shields.io/badge/lang-scala-red.svg)
 ![java](https://img.shields.io/badge/lang-java-lightgrey.svg)
 ![golang](https://img.shields.io/badge/lang-golang-blue.svg)
+![golang](https://img.shields.io/badge/lang-python-blue.svg)
 
-### Progres  7 / 901
+### Progres  9 / 901
 
 ## Array
 |  #  | Title | Solution |
@@ -18,6 +19,7 @@
 |203| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Python](./linkedList/RemoveLinkedListElements.py) |
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Scala](./linkedList/ReverseLinkedList.scala) |
 |237| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Python](./linkedList/DeleteNodeInLinkedList.py) |
+|430| [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Java](./linkedList/FlattenMultilevelDoublyLinkedList.java) |
 
 ## Math
 |  #  | Title | Solution |
