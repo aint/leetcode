@@ -5,7 +5,7 @@
 ![golang](https://img.shields.io/badge/lang-golang-blue.svg)
 ![golang](https://img.shields.io/badge/lang-python-blue.svg)
 
-### Progres  9 / 901
+### Progres  10 / 1143
 
 ## Array
 |  #  | Title | Solution |
@@ -31,5 +31,6 @@
 | --- | ----- | -------- |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Scala](./string/ReverseString.scala) |
 |3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Scala](./string/LongestSubstringWithoutRepeatingCharacters.scala) |
+|5| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](./string/LongestPalindromicSubstring.java) |
 
 
