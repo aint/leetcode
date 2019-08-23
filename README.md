@@ -5,7 +5,7 @@
 ![golang](https://img.shields.io/badge/lang-golang-blue.svg)
 ![golang](https://img.shields.io/badge/lang-python-blue.svg)
 
-### Progres  10 / 1143
+### Progres  11 / 1164
 
 ## Array
 |  #  | Title | Solution |
@@ -24,6 +24,7 @@
 ## Math
 |  #  | Title | Solution |
 | --- | ----- | -------- |
+|7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./math/reverse_integer.cpp) |
 |9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Golang](./math/PalindromeNumber.go) |
 
 ## String
