@@ -18,29 +18,28 @@ func destCity(paths [][]string) string {
 		return paths[0][1]
 	}
 
-	m := make(map[string]string)
-
-	for i := 0; i < len(paths); i++ {
-		m[paths[i][0]] = paths[i][1]
-	}
-
 	max := 0
 	res := ""
-	for _, dest := range m {
-		d, c := rec(dest, m, 0)
-		if c > max {
-			max = c
+	for i, pair := range paths {
+		d, count := rec(pair[1], paths, 0)
+		if count > max {
+			max = count
 			res = d
+		}
+
+		if len(paths)-i < max {
+			break
 		}
 	}
 
 	return res
 }
 
-func rec(target string, paths map[string]string, count int) (string, int) {
-	dest, ok := paths[target]
-	if ok {
-		return rec(dest, paths, count + 1)
+func rec(target string, paths [][]string, count int) (string, int) {
+	for _, pair := range paths {
+		if pair[0] == target {
+			return rec(pair[1], paths, count+1)
+		}
 	}
 	return target, count
 }
