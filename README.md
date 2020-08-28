@@ -5,13 +5,14 @@
 ![golang](https://img.shields.io/badge/lang-golang-blue.svg)
 ![golang](https://img.shields.io/badge/lang-python-blue.svg)
 
-### Progres  13 / 1563
+### Progres  14 / 1564
 
 ## Array
 |  #  | Title | Solution |
 | --- | ----- | -------- |
 |1| [Two sum](https://leetcode.com/problems/two-sum/description/) | [Java](./array/TwoSum.java) |
 |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](./array/RemoveDuplicatesFromSortedArray.go) |
+|724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [TypeScript](./array/FindPivotIndex.ts) |
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Python](./array/ShuffleArray.py) |
 
 ## Linked List
