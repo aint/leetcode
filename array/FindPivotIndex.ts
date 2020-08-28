@@ -1,19 +1,18 @@
 function pivotIndex(nums: number[]): number {
+    let leftSum = 0;
+    let rightSum = 0;
     for (let i = 0; i < nums.length; i++) {
+        rightSum += nums[i];
+    }
 
-        let leftSum = 0;
-        for (let j = 0; j <= i; j++) {
-            leftSum += nums[j];
-        }
-
-        let rightSum = 0;
-        for (let j = nums.length - 1; j >= i; j--) {
-            rightSum += nums[j];
-        }
+    for (let i = 0; i < nums.length; i++) {
+        leftSum += nums[i];
 
         if (leftSum == rightSum) {
             return i;
         }
+
+        rightSum -= nums[i];
     }
     return -1
 };
