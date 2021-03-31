@@ -15,6 +15,7 @@
 |347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Kotlin](./array/TopKFrequentElements.kt) |
 |349| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [JavaScript](./array/IntersectionOfTwoArrays.js) |
 |724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [TypeScript](./array/FindPivotIndex.ts) |
+|832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Golang](./array/FlippingImage.go) |
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Python](./array/ShuffleArray.py) |
 
 ## Linked List
