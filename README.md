@@ -5,13 +5,14 @@
 ![golang](https://img.shields.io/badge/lang-golang-blue.svg)
 ![golang](https://img.shields.io/badge/lang-python-blue.svg)
 
-### Progres  17 / 1564
+### Progres  19 / 1825
 
 ## Array
 |  #  | Title | Solution |
 | --- | ----- | -------- |
 |1| [Two sum](https://leetcode.com/problems/two-sum/description/) | [Java](./array/TwoSum.java) |
-|26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](./array/RemoveDuplicatesFromSortedArray.go) |
+|26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Golang](./array/RemoveDuplicatesFromSortedArray.go) |
+|27| [Remove Element](https://leetcode.com/problems/remove-element/) | [Golang](./array/RemoveElement.go) |
 |347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Kotlin](./array/TopKFrequentElements.kt) |
 |349| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [JavaScript](./array/IntersectionOfTwoArrays.js) |
 |724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [TypeScript](./array/FindPivotIndex.ts) |
