@@ -5,7 +5,7 @@
 ![golang](https://img.shields.io/badge/lang-golang-blue.svg)
 ![golang](https://img.shields.io/badge/lang-python-blue.svg)
 
-### Progres  21 / 1883
+### Progres  22 / 1883
 
 ## Array
 |  #  | Title | Solution |
@@ -20,6 +20,7 @@
 |832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Golang](./array/FlippingImage.go) |
 |922| [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Golang](./array/SortArrayByParity2.go) |
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Python](./array/ShuffleArray.py) |
+|1491| [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Golang](./array/AverageSalaryExcludingMinAndMaxSalary.go) |
 
 ## Linked List
 |  #  | Title | Solution |
