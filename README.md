@@ -5,7 +5,7 @@
 ![golang](https://img.shields.io/badge/lang-golang-blue.svg)
 ![golang](https://img.shields.io/badge/lang-python-blue.svg)
 
-### Progres  22 / 1883
+### Progres  24 / 1940
 
 ## Array
 |  #  | Title | Solution |
@@ -25,6 +25,7 @@
 ## Linked List
 |  #  | Title | Solution |
 | --- | ----- | -------- |
+|2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Golang](./linkedList/AddTwoNumbers.go) |
 |203| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Python](./linkedList/RemoveLinkedListElements.py) |
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Scala](./linkedList/ReverseLinkedList.scala) |
 |237| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Python](./linkedList/DeleteNodeInLinkedList.py) |
@@ -35,6 +36,7 @@
 | --- | ----- | -------- |
 |7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./math/reverse_integer.cpp) |
 |9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Golang](./math/PalindromeNumber.go) |
+|43| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Golang](./math/MultiplyStrings.go) |
 
 ## String
 |  #  | Title | Solution |
