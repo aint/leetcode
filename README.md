@@ -1,11 +1,6 @@
 # Leetcode
 
-![scala](https://img.shields.io/badge/lang-scala-red.svg)
-![java](https://img.shields.io/badge/lang-java-lightgrey.svg)
-![golang](https://img.shields.io/badge/lang-golang-blue.svg)
-![golang](https://img.shields.io/badge/lang-python-blue.svg)
-
-### Progres  24 / 1940
+### Progress  27 (20 Easy, 7 Medium, 0 Hard)
 
 ## Array
 |  #  | Title | Solution |
@@ -21,6 +16,8 @@
 |922| [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Golang](./array/SortArrayByParity2.go) |
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Python](./array/ShuffleArray.py) |
 |1491| [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Golang](./array/AverageSalaryExcludingMinAndMaxSalary.go) |
+|1588| [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Golang](./array/SumOfAllOddLengthSubarrays.go) |
+
 
 ## Linked List
 |  #  | Title | Solution |
@@ -41,10 +38,14 @@
 ## String
 |  #  | Title | Solution |
 | --- | ----- | -------- |
-|344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Scala](./string/ReverseString.scala) |
 |3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Scala](./string/LongestSubstringWithoutRepeatingCharacters.scala) |
 |5| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](./string/LongestPalindromicSubstring.java) |
+|242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Golang](./string/ValidAnagram.go) |
+|344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Scala](./string/ReverseString.scala) |
 |1309| [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [Rust](./string/DecryptStringFromAlphabetToIntegerMapping.rs) |
 |1436| [Destination City](https://leetcode.com/problems/destination-city/) | [Golang](./string/DestinationCity.go) |
 
-
+## Tree
+|  #  | Title | Solution |
+| --- | ----- | -------- |
+|1302| [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Golang](./tree/DeepestLeavesSum.go) |
