@@ -1,7 +1,7 @@
 # Leetcode
 
-### Problems Solved  28
-<span style="color:green">Easy 20</span>&emsp;&emsp;<span style="color:orange">Medium 8</span>&emsp;&emsp;<span style="color:red">Hard 0</span>
+### Problems Solved  30
+<span style="color:green">Easy 20</span>&emsp;&emsp;<span style="color:orange">Medium 10</span>&emsp;&emsp;<span style="color:red">Hard 0</span>
 
 
 ## Array
@@ -19,6 +19,7 @@
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Python](./array/ShuffleArray.py) |
 |1491| [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Golang](./array/AverageSalaryExcludingMinAndMaxSalary.go) |
 |1588| [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Golang](./array/SumOfAllOddLengthSubarrays.go) |
+|1769| [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Golang](./array/MinNumberOperationsToMoveAllBallsToEachBox.go) |
 
 
 ## Linked List
@@ -45,6 +46,7 @@
 |242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Golang](./string/ValidAnagram.go) |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Scala](./string/ReverseString.scala) |
 |438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Golang](./string/FindAllAnagramsInString.go) |
+|567| [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Golang](./string/PermutationInString.go) |
 |1309| [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [Rust](./string/DecryptStringFromAlphabetToIntegerMapping.rs) |
 |1436| [Destination City](https://leetcode.com/problems/destination-city/) | [Golang](./string/DestinationCity.go) |
 
