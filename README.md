@@ -1,6 +1,8 @@
 # Leetcode
 
-### Progress  27 (20 Easy, 7 Medium, 0 Hard)
+### Problems Solved  28
+<span style="color:green">Easy 20</span>&emsp;&emsp;<span style="color:orange">Medium 8</span>&emsp;&emsp;<span style="color:red">Hard 0</span>
+
 
 ## Array
 |  #  | Title | Solution |
@@ -42,6 +44,7 @@
 |5| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](./string/LongestPalindromicSubstring.java) |
 |242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Golang](./string/ValidAnagram.go) |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Scala](./string/ReverseString.scala) |
+|438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Golang](./string/FindAllAnagramsInString.go) |
 |1309| [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [Rust](./string/DecryptStringFromAlphabetToIntegerMapping.rs) |
 |1436| [Destination City](https://leetcode.com/problems/destination-city/) | [Golang](./string/DestinationCity.go) |
 
