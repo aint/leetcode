@@ -19,8 +19,8 @@ func findAnagrams(s string, p string) []int {
 
 	pSize := len(p)
 	result := make([]int, 0)
-	for i, r := range s {
-		if strings.Contains(p, string(r)) {
+	for i := 0; i <= len(s) - len(p); i++ {
+		if strings.ContainsRune(p, rune(s[i])) {
 			if isAnagram(s, i, pSize) {
 				result = append(result, i)
 			}
@@ -30,7 +30,8 @@ func findAnagrams(s string, p string) []int {
 }
 
 func isAnagram(s string, sIndex, pSize int) bool {
-	substr_map := make(map[rune]int, 0)
+	// copy p_map to a new [mutable] one
+	substr_map := make(map[rune]int, len(p_map))
 	for k, v := range p_map {
 		substr_map[k] = v
 	}
