@@ -1,7 +1,7 @@
 # Leetcode
 
-### Problems Solved  30
-<span style="color:green">Easy 20</span>&emsp;&emsp;<span style="color:orange">Medium 10</span>&emsp;&emsp;<span style="color:red">Hard 0</span>
+### Problems Solved  32
+<span style="color:green">Easy 21</span>&emsp;&emsp;<span style="color:orange">Medium 11</span>&emsp;&emsp;<span style="color:red">Hard 0</span>
 
 
 ## Array
@@ -53,4 +53,6 @@
 ## Tree
 |  #  | Title | Solution |
 | --- | ----- | -------- |
+|653| [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Golang](./tree/TwoSumIV.go) |
 |1302| [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Golang](./tree/DeepestLeavesSum.go) |
+|1448| [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Golang](./tree/CountGoodNodesInBinaryTree.go) |
