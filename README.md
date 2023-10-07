@@ -4,11 +4,12 @@
 
 
 ## Array
-|  #  | Title | Solution |
-| --- | ----- | -------- |
+|  #  | Title | Solution | Topics |
+| --- | ----- | -------- | ------ |
 |1| [Two sum](https://leetcode.com/problems/two-sum/description/) | [Java](./array/TwoSum.java) |
 |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Golang](./array/RemoveDuplicatesFromSortedArray.go) |
 |27| [Remove Element](https://leetcode.com/problems/remove-element/) | [Golang](./array/RemoveElement.go) |
+|121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python](./python/python/121_best_time_to_buy_sell.py) | two pointers |
 |201| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Golang](./array/ContainsDuplicate2.go) |
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Golang](./array/MoveZeroes.go) |
 |347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Kotlin](./array/TopKFrequentElements.kt) |
