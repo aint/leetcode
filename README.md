@@ -42,4 +42,5 @@
 |1491| [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Golang](./array/AverageSalaryExcludingMinAndMaxSalary.go) |
 |1588| [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Golang](./array/SumOfAllOddLengthSubarrays.go) |
 |1769| [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Golang](./array/MinNumberOperationsToMoveAllBallsToEachBox.go) |
+|1827| [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [Python](./python/1827_minimum_operations_to_make_array_increasing.py) | greedy |
 |2260| [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [Golang](./array/MinConsecutiveCardsToPickUp.go) |
