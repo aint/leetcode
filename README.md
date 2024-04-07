@@ -45,3 +45,4 @@
 |1769| [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Golang](./array/MinNumberOperationsToMoveAllBallsToEachBox.go) |
 |1827| [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [Python](./python/1827_minimum_operations_to_make_array_increasing.py) | greedy |
 |2260| [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [Golang](./array/MinConsecutiveCardsToPickUp.go) |
+|2461| [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [Python](./python/2461_max_sum_of_distinct_subarrays_with_length_k.py) | Sliding Window |
