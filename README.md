@@ -1,6 +1,6 @@
 # Leetcode
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=aint)](https://github.com/KnlnKS/leetcode-stats)
+[![LeetCode stats](https://leetcard.jacoblin.cool/aint)](https://leetcard.jacoblin.cool/aint)
 
 
 |  #  | Title | Solution | Topics |
