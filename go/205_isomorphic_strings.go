@@ -29,7 +29,7 @@ func isIsomorphic(s string, t string) bool {
 	return true
 }
 
-func test() {
+func testIsIsomorphic() {
 	fmt.Println("true =", isIsomorphic("egg", "add"))
 	fmt.Println("true =", isIsomorphic("paper", "title"))
 	fmt.Println("false =", isIsomorphic("badc", "baba"))

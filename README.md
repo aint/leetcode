@@ -11,7 +11,8 @@
 |5| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Java](./string/LongestPalindromicSubstring.java) |
 |7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./math/reverse_integer.cpp) |
 |9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Golang](./math/PalindromeNumber.go) |
-|11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Python](./python/11_container_with_most_water.py) | two pointers |
+|11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./python/11_container_with_most_water.py) | two pointers |
+|14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Golang](./go/14_longest_common_prefix.go) ||
 |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Golang](./array/RemoveDuplicatesFromSortedArray.go) |
 |27| [Remove Element](https://leetcode.com/problems/remove-element/) | [Golang](./array/RemoveElement.go) |
 |43| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Golang](./math/MultiplyStrings.go) |
