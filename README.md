@@ -13,6 +13,7 @@
 |9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Golang](./math/PalindromeNumber.go) |
 |11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./python/11_container_with_most_water.py) | two pointers |
 |14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Golang](./go/14_longest_common_prefix.go) ||
+|21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Golang](./go/21_merge_two_sorted_lists.go.go) | dummy head |
 |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Golang](./array/RemoveDuplicatesFromSortedArray.go) |
 |27| [Remove Element](https://leetcode.com/problems/remove-element/) | [Golang](./array/RemoveElement.go) |
 |43| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Golang](./math/MultiplyStrings.go) |
