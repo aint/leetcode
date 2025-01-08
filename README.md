@@ -16,6 +16,7 @@
 |21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Golang](./go/21_merge_two_sorted_lists.go.go) | dummy head |
 |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Golang](./array/RemoveDuplicatesFromSortedArray.go) |
 |27| [Remove Element](https://leetcode.com/problems/remove-element/) | [Golang](./array/RemoveElement.go) |
+|35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Golang](./go/35_search_insert_position.go) | binary search |
 |43| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Golang](./math/MultiplyStrings.go) |
 |121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python](./python/121_best_time_to_buy_sell.py) | two pointers |
 |129| [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Golang](./tree/SumRootToLeafNumbers.go) |
