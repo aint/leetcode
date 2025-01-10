@@ -24,6 +24,7 @@
 |203| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Python](./linkedList/RemoveLinkedListElements.py) |
 |205| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Golang](./go/205_isomorphic_strings.go) |
 |206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Scala](./linkedList/ReverseLinkedList.scala) |
+|225| [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Golang](./go/225_implement_stack_using_queues.go) | stack |
 |237| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Python](./linkedList/DeleteNodeInLinkedList.py) |
 |242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Golang](./string/ValidAnagram.go) |
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Golang](./array/MoveZeroes.go) |
