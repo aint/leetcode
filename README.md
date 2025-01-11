@@ -28,6 +28,7 @@
 |237| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Python](./linkedList/DeleteNodeInLinkedList.py) |
 |242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Golang](./string/ValidAnagram.go) |
 |258| [Add digits](https://leetcode.com/problems/add-digits/) | [Python](./python/258_add_digits.py) | recursion |
+|268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](./python/268_missing_number.py) | math |
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Golang](./array/MoveZeroes.go) |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Scala](./string/ReverseString.scala) |
 |347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Kotlin](./array/TopKFrequentElements.kt) |
