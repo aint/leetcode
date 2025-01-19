@@ -41,6 +41,7 @@
 |832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Golang](./array/FlippingImage.go) |
 |917| [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Golang](./string/ReverseOnlyLetters.go) |
 |922| [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Golang](./array/SortArrayByParity2.go) |
+|977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./python/977_squares_of_sorted_array.py) | two pointers |
 |988| [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [Golang](./tree/SmallestStringStartingFromLeaf.go) |
 |1302| [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Golang](./tree/DeepestLeavesSum.go) |
 |1309| [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [Rust](./string/DecryptStringFromAlphabetToIntegerMapping.rs) |
