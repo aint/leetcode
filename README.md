@@ -20,6 +20,7 @@
 |43| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Golang](./math/MultiplyStrings.go) |
 |88| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./python/88_merge_sorted_array.py) | two pointers |
 |121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python](./python/121_best_time_to_buy_sell.py) | two pointers |
+|125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Kotlin](./kotlin/125_valid_palindrome.kt) | two pointers |
 |129| [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Golang](./tree/SumRootToLeafNumbers.go) |
 |201| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Golang](./array/ContainsDuplicate2.go) |
 |203| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Python](./linkedList/RemoveLinkedListElements.py) |
