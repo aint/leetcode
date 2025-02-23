@@ -14,7 +14,7 @@
 |11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./python/11_container_with_most_water.py) | two pointers |
 |14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Golang](./go/14_longest_common_prefix.go) ||
 |21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Golang](./go/21_merge_two_sorted_lists.go.go) | dummy head |
-|26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Golang](./array/RemoveDuplicatesFromSortedArray.go) |
+|26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Kotlin](./kotlin/26_remove_duplicates_from_sorted_array.kt) | two pointers |
 |27| [Remove Element](https://leetcode.com/problems/remove-element/) | [Golang](./array/RemoveElement.go) |
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Golang](./go/35_search_insert_position.go) | binary search |
 |43| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Golang](./math/MultiplyStrings.go) |
