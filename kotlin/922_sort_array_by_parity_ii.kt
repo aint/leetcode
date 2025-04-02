@@ -1,6 +1,4 @@
 fun sortArrayByParityII(nums: IntArray): IntArray {
-    // Use two pointers. The first one starts from 0 and checks even indexes.
-    // The second starts from the end and checks odd indexes.
     // Use two pointers:
     // - `l` starts at index 0 and moves forward by 2, ensuring even indices have even numbers.
     // - `r` starts at the last index and moves backward by 2, ensuring odd indices have odd numbers.
