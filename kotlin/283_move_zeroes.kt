@@ -1,13 +1,14 @@
+// This function moves all zeros in the array to the end while maintaining the order of non-zero
+// elements.
+// A two-pointer approach. As we iterate through `nums`, whenever we find a non-zero element,
+// we move it to index `k` and increment `k`.
+// - `i` iterates through the array.
+// - `k` tracks the position where the next non-zero element should be placed.
 fun moveZeroes(nums: IntArray) {
     if (nums.size == 1) {
         return
     }
 
-    // This function moves all zeros in the array to the end while maintaining the order of non-zero elements.
-    // It uses a two-pointer approach:
-    // - `i` iterates through the array.
-    // - `k` tracks the position where the next non-zero element should be placed.
-    // As we iterate through `nums`, whenever we find a non-zero element, we move it to index `k` and increment `k`.
     var k = 0
     for (i in nums.indices) {
         if (nums[i] != 0) {
