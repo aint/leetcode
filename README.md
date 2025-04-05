@@ -36,6 +36,7 @@
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Scala](./string/ReverseString.scala) |
 |347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Kotlin](./array/TopKFrequentElements.kt) |
 |349| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [JavaScript](./array/IntersectionOfTwoArrays.js) |
+|374| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Python](./python/374_guess_number_higher_or_lower.py) | binary search |
 |430| [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Java](./linkedList/FlattenMultilevelDoublyLinkedList.java) |
 |438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Golang](./string/FindAllAnagramsInString.go) |
 |567| [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Golang](./string/PermutationInString.go) |
