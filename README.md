@@ -31,6 +31,7 @@
 |242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Golang](./string/ValidAnagram.go) |
 |258| [Add digits](https://leetcode.com/problems/add-digits/) | [Python](./python/258_add_digits.py) | recursion |
 |268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](./python/268_missing_number.py) | math |
+|278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](./python/278_first_bad_version.py) | binary search |
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Kotlin](./kotlin/283_move_zeroes.kt) | two pointers |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Scala](./string/ReverseString.scala) |
 |347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Kotlin](./array/TopKFrequentElements.kt) |
