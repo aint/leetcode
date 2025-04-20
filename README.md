@@ -18,6 +18,7 @@
 |27| [Remove Element](https://leetcode.com/problems/remove-element/) | [Golang](./array/RemoveElement.go) |
 |35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Golang](./go/35_search_insert_position.go) | binary search |
 |43| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Golang](./math/MultiplyStrings.go) |
+|62| [Rotate List](https://leetcode.com/problems/rotate-list/) | [Scala](./scala/62_rotate_list.scala) | linked list |
 |88| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./python/88_merge_sorted_array.py) | two pointers |
 |121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Python](./python/121_best_time_to_buy_sell.py) | two pointers |
 |125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Kotlin](./kotlin/125_valid_palindrome.kt) | two pointers |
