@@ -35,6 +35,7 @@
 |278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](./python/278_first_bad_version.py) | binary search |
 |283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Kotlin](./kotlin/283_move_zeroes.kt) | two pointers |
 |344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Scala](./string/ReverseString.scala) |
+|345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Python](./python/345_reverse_vowels_of_string.py) | two pointers |
 |347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Kotlin](./array/TopKFrequentElements.kt) |
 |349| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [JavaScript](./array/IntersectionOfTwoArrays.js) |
 |374| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Python](./python/374_guess_number_higher_or_lower.py) | binary search |
